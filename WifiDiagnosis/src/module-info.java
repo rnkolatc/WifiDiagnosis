@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nkola
+ *
+ */
+module WifiDiagnosis {
+}
